@@ -39,12 +39,6 @@ Almost all of my work has been client work under NDA at a software house, so thi
 
 ---
 
-## Now
-
-With Temporal landing unflagged in Node 26, I'm working on the timezone-correctness patterns I keep rebuilding on every project — publishing them here rather than reimplementing them a seventh time.
-
----
-
 ## Elsewhere
 
 **LinkedIn** — [anas-muhammad-51096](https://www.linkedin.com/in/anas-muhammad-51096)
